@@ -70,5 +70,3 @@ I warmly welcome esteemed experts, collaborators, and fellow developers to:
 ---
 
 *"Code is poetry, and every line tells a story."*
-
-📫 **How to reach me:** [Your contact information]
